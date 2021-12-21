@@ -5,8 +5,7 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-12.0.0_r21"
-           remote="aosp"
-           sync-j="4" />
+           remote="aosp" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-12.0.0_r21" />
   <contactinfo bugurl="go/repo-bug" />
